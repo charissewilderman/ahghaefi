@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eithataic.linkdale.org/sitemap.xml
